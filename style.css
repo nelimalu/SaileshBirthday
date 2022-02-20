@@ -1,0 +1,16 @@
+canvas {
+	border: 1px solid black;
+    display: inline;
+}
+
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+h1, p {
+	font-family: monospace;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
